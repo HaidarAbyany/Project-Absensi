@@ -1,0 +1,8 @@
+.env
+models/__pycache__
+schema/__pycache__
+controllers/__pycache__
+common/__pycache__
+__pycache__
+/venv
+/migrations/*
